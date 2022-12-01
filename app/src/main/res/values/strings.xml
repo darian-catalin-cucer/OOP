@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SimpleAndroidApp</string>
+    <string name="nuclears_name">Nama PLTN</string>
+    <string name="description">Description</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="image">Image</string>
+    <string name="country">Country</string>
+    <string name="construction">Construction</string>
+    <string name="decommission">Decommission</string>
+    <string name="capacity">Capacity</string>
+    <string name="unit">Unit</string>
+    <string name="name_received">Name Received</string>
+    <string name="detail_received">Detail Received</string>
+    <string name="country_received">Country Received</string>
+    <string name="construction_received">Construction Received</string>
+    <string name="decommission_received">Decommission Received</string>
+    <string name="capacity_received">Capacity Received</string>
+    <string name="unit_received">Unit Received</string>
+    <string name="about">About</string>
+    <string name="myName">Darian-Cătălin Cucer</string>
+    <string name="myEmail">cucerdariancatalin@gmail.com</string>
+    <string name="myLinkedIn">LinkedIn</string>
+    <string name="myGitHub">GitHub</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="reference">References</string>
+    <string name="stackoverflow"><a href="https://stackoverflow.com">Stack Overflow</a></string>
+</resources>
