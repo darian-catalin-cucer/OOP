@@ -29,4 +29,5 @@
         <activity android:name=".About" />
     </application>
 
+
 </manifest>
