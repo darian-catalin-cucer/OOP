@@ -1,1 +1,1 @@
-Kotlin - What is OOP? OOP stands for Object-Oriented Programming. Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.
+Objects use the properties and behaviours of the class. As mentioned above, class is just a blueprint, no memory is allocated to the class. Once the objects of the class are created they take memory space and perform various actions on the data using data members and members functions of the class.
